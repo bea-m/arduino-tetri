@@ -1,2 +1,2 @@
-# arduino-boy
-A simple gameboy like device
+# wroom-wroom boy
+Wroom-wroom boy goes wroooooooooooooooooooooooooooooooooooooooooooooom
