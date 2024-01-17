@@ -1,2 +1,4 @@
-# wroom-wroom boy
-Wroom-wroom boy goes wroooooooooooooooooooooooooooooooooooooooooooooom
+# Arduino Tetris
+Projekt zaměřen na práci s modulem ESP-WROOM-32, displayem ILI9341 a kombinací C++ s PlatformIO
+
+
